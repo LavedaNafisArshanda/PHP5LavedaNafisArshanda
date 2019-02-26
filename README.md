@@ -11,7 +11,7 @@ Sebuah fungsi yang tidak mempunyai parameter dan return value. digunakan untuk m
 4. Fungsi dengan parameter default
 Sebuah fungsi yang Nilai default berfungsi untuk mengisi nilai
 sebuah parameter, kalau parameter tersebut tidak diisi dengan inputan nilainya.
-3.)
+
 ![alt text](https://github.com/LavedaNafisArshanda/PHP5LavedaNafisArshanda/blob/master/1.JPG)
 ![alt text](https://github.com/LavedaNafisArshanda/PHP5LavedaNafisArshanda/blob/master/2.JPG)
 ![alt text](https://github.com/LavedaNafisArshanda/PHP5LavedaNafisArshanda/blob/master/3.JPG)
@@ -19,4 +19,12 @@ sebuah parameter, kalau parameter tersebut tidak diisi dengan inputan nilainya.
 Latihan 3 ini outputnya masih error dikarenakan saya belum menambahkan file css nya.
 ![alt text](https://github.com/LavedaNafisArshanda/PHP5LavedaNafisArshanda/blob/master/4.JPG)
 ![alt text](https://github.com/LavedaNafisArshanda/PHP5LavedaNafisArshanda/blob/master/5.JPG)
+
+3.)Sudah benar, karena output program sudah benar dan bisa di operasikan sesuai dengan instruksi.
+Keliling Trapesium : 
+![alt text](https://github.com/LavedaNafisArshanda/PHP5LavedaNafisArshanda/blob/master/Keliling.JPG)
+Nama fungsi = eksekusi nama parameter = $keliling
+Luas Trapesium :
+![alt text](https://github.com/LavedaNafisArshanda/PHP5LavedaNafisArshanda/blob/master/Luas.JPG)
+Nama fungsi = eksekusi nama parameter = $luas
 
