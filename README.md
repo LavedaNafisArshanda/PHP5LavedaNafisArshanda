@@ -5,15 +5,11 @@
 Parameter digunakan sebagai input untuk fungsi. Jumlah parameter dari fungsi boleh lebih dari satu. Untuk memisahkan antar
 parameter digunakan tanda koma (,).
 2. Fungsi dengan Return Value
-Sebuah fungsi juga dapat mengembalikan suatu nilai. Dalam sebuah fungsi hanya boleh
-terdapat satu return value. Nilai yang dikembalikan dapat berupa suatu bilangan real dan
-string.
+Sebuah fungsi yang dapat mengembalikan suatu nilai. dengan return value hanya dapat mengembalikan satu nilai saja, dan nilai yang dikembalikan berupa string dan bilangan real.
 3. Fungsi Tanpa Parameter dan Return Value
-Sebuah fungsi yang tidak memiliki parameter dan return value biasanya digunakan untuk
-menampilkan suatu mekanisme atau tampilan, di mana mekanisme tersebut tidak
-memerlukan inputan dan nilai kembalian / return value.
+Sebuah fungsi yang tidak mempunyai parameter dan return value. digunakan untuk menampilkan suatu mekanisme, dimana mekanisme tersebut tidak memerlukan parameter dan return value.
 4. Fungsi dengan parameter default
-Nilai default dapat diberikan di parameter. Nilai default berfungsi untuk mengisi nilai
+Sebuah fungsi yang Nilai default berfungsi untuk mengisi nilai
 sebuah parameter, kalau parameter tersebut tidak diisi dengan inputan nilainya.
 3.)
 ![alt text](https://github.com/LavedaNafisArshanda/PHP5LavedaNafisArshanda/blob/master/1.JPG)
@@ -23,5 +19,4 @@ sebuah parameter, kalau parameter tersebut tidak diisi dengan inputan nilainya.
 Latihan 3 ini outputnya masih error dikarenakan saya belum menambahkan file css nya.
 ![alt text](https://github.com/LavedaNafisArshanda/PHP5LavedaNafisArshanda/blob/master/4.JPG)
 ![alt text](https://github.com/LavedaNafisArshanda/PHP5LavedaNafisArshanda/blob/master/5.JPG)
-![alt text](https://github.com/LavedaNafisArshanda/PHP5LavedaNafisArshanda/blob/master/6.JPG)
-![alt text](https://github.com/LavedaNafisArshanda/PHP5LavedaNafisArshanda/blob/master/7.JPG)
+
